@@ -1,0 +1,37 @@
+body{
+ background-size: cover;
+ background-position: center;   
+}
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+
+
+#bedroom{
+    font-size: 23px;
+    border-radius: 50px;
+}
+
+#backyard{
+    font-size: 23px;
+    border-radius: 50px;
+}
+
+#kitchen{
+    font-size: 23px;
+    border-radius: 50px;
+}
+
+#basement{
+    font-size: 23px;
+    border-radius: 50px;
+}
+
+#table{
+    font-size: 23px;
+    border-radius: 50px;
+}
+
